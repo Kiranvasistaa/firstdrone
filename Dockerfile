@@ -1,5 +1,4 @@
 #Simple Docker File
-#Hello world
 FROM golang:1.13
 RUN mkdir /app
 ADD . /app
